@@ -1,0 +1,15 @@
+--- usr/share/gnome-background-properties/macbuntu-gnome.xml	2019-09-10 16:12:59.000000000 -0400
++++ usr/share/gnome-background-properties/macbuntu-gnome.xml	2019-09-13 15:00:01.053785830 -0400
+@@ -345,4 +345,12 @@
+      <scolor>#000000</scolor>
+      <shade_type>solid</shade_type>
+ </wallpaper>
++<wallpaper>
++<name>-交錯せし戦神-.jpg</name>
++  <filename>/usr/share/backgrounds/-交錯せし戦神-.jpg</filename>
++    <options>stretched</options>
++     <pcolor>#ffffff</pcolor>
++     <scolor>#000000</scolor>
++     <shade_type>solid</shade_type>
++</wallpaper>
+ </wallpapers>

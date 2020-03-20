@@ -1,0 +1,31 @@
+--- usr/share/gnome-background-properties/macbuntu-gnome.xml	2019-08-27 17:44:07.000000000 -0400
++++ usr/share/gnome-background-properties/macbuntu-gnome.xml	2019-08-27 21:37:53.117156136 -0400
+@@ -321,4 +321,28 @@
+      <scolor>#000000</scolor>
+      <shade_type>solid</shade_type>
+ </wallpaper>
++<wallpaper>
++<name>Catalina-Day.png</name>
++  <filename>/usr/share/backgrounds/Catalina-Day.png</filename>
++    <options>stretched</options>
++     <pcolor>#ffffff</pcolor>
++     <scolor>#000000</scolor>
++     <shade_type>solid</shade_type>
++</wallpaper>
++<wallpaper>
++<name>Catalina-Night.png</name>
++  <filename>/usr/share/backgrounds/Catalina-Night.png</filename>
++    <options>stretched</options>
++     <pcolor>#ffffff</pcolor>
++     <scolor>#000000</scolor>
++     <shade_type>solid</shade_type>
++</wallpaper>
++<wallpaper>
++<name>Phoenix.png</name>
++  <filename>/usr/share/backgrounds/Phoenix.png</filename>
++    <options>stretched</options>
++     <pcolor>#ffffff</pcolor>
++     <scolor>#000000</scolor>
++     <shade_type>solid</shade_type>
++</wallpaper>
+ </wallpapers>

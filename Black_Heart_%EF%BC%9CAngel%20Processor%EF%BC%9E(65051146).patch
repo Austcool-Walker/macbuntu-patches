@@ -1,0 +1,40 @@
+--- usr/share/gnome-background-properties/macbuntu-gnome.xml	2019-09-23 17:17:30.000000000 -0400
++++ usr/share/gnome-background-properties/macbuntu-gnome.xml	2019-09-23 17:22:33.259350381 -0400
+@@ -306,6 +306,22 @@
+      <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
++<name>-交錯せし戦神-.jpg</name>
++  <filename>/usr/share/backgrounds/-交錯せし戦神-.jpg</filename>
++    <options>stretched</options>
++     <pcolor>#ffffff</pcolor>
++     <scolor>#000000</scolor>
++     <shade_type>solid</shade_type>
++</wallpaper>
++<wallpaper>
++<name>Black_Heart_＜Angel Processor＞(65051146).png</name>
++  <filename>/usr/share/backgrounds/Black_Heart_＜Angel Processor＞(65051146).png</filename>
++    <options>stretched</options>
++     <pcolor>#ffffff</pcolor>
++     <scolor>#000000</scolor>
++     <shade_type>solid</shade_type>
++</wallpaper>
++<wallpaper>
+ <name>Ink-Cloud.jpg</name>
+   <filename>/usr/share/backgrounds/Ink-Cloud.jpg</filename>
+     <options>stretched</options>
+@@ -343,14 +359,6 @@
+     <options>stretched</options>
+      <pcolor>#ffffff</pcolor>
+      <scolor>#000000</scolor>
+-     <shade_type>solid</shade_type>
+-</wallpaper>
+-<wallpaper>
+-<name>-交錯せし戦神-.jpg</name>
+-  <filename>/usr/share/backgrounds/-交錯せし戦神-.jpg</filename>
+-    <options>stretched</options>
+-     <pcolor>#ffffff</pcolor>
+-     <scolor>#000000</scolor>
+      <shade_type>solid</shade_type>
+ </wallpaper>
+ </wallpapers>
